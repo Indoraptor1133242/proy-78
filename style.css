@@ -1,0 +1,36 @@
+body{
+    text-align:center;
+    background-color: rgba(0, 0, 0, 0.616);
+
+}
+section{
+    align-self: center;
+    background-color: rgba(210, 215, 219, 0.315);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    border-radius: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    
+}
+img{
+margin-top: 40px;
+margin-bottom: 20px;
+
+}
+h1{
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    border-color: white;
+   border-radius: 30px;
+   font-size: 30px;
+   background-color: rgba(128, 128, 128, 0.37);
+   color: rgba(46, 41, 41, 0.863);
+}
+h3{
+    font-size: 20px;
+}
